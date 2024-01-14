@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Node.js , React , MongoDB , Firebase , Express , Next.js**
 
-- 📫 How to reach me **avishkainduladev@gmail.com**
+- 📫 How to reach me **avishkaindula@gmail.com**
 
 - 📄 Know about my experiences [**resume link**](https://drive.google.com/file/d/11S6poFfm-7T2sJzuA4tbSnMw7Fwevbpf/view?usp=sharing)
 
