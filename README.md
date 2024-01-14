@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **avishkainduladev@gmail.com**
 
-- 📄 Know about my experiences [**resume link**](https://drive.google.com/file/d/1pKcVU_lDU7tB2ffuH_vcz9_G9EnU9ong/view?usp=sharing)
+- 📄 Know about my experiences [**resume link**](https://drive.google.com/file/d/11S6poFfm-7T2sJzuA4tbSnMw7Fwevbpf/view?usp=sharing)
 
 - ⚡ Fun fact **I'm also a Music Producer**
 
