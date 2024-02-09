@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avishkaindula" alt="avishkaindula" /></a> </p>
 
-- 💬 Ask me about **Node.js , React , MongoDB , Firebase , Express , Next.js**
+- 💬 Ask me about **Node.js , React , MongoDB , Firebase , Express , Next.js, Nest.js, React Native**
 
 - 📫 How to reach me **avishkaindula@gmail.com**
 
