@@ -1,12 +1,12 @@
 [![MasterHead](https://user-images.githubusercontent.com/100791045/210122720-ba2e089f-0237-494f-b959-7653b33fafdd.gif)](https://www.linkedin.com/in/avishka-indula-a7b6b524a/)
 <h1 align="center">Hi 👋, I'm Avishka Indula</h1>
-<h3 align="center">Associate Software Engineer | Full Stack Developer</h3>
+<h3 align="center">Junior Software Engineer | Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishkaindula&label=Profile%20views&color=0e75b6&style=flat" alt="avishkaindula" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avishkaindula" alt="avishkaindula" /></a> </p>
 
-- 💬 Ask me about **Node.js , React , MongoDB , Firebase , Express , Next.js, Nest.js, React Native**
+- 💬 Ask me about **Node.js , Python, React , MongoDB , Firebase , Express , Next.js, Nest.js, React Native**
 
 - 📫 How to reach me **avishkaindula@gmail.com**
 
