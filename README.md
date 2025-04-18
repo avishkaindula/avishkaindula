@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **avishkaindula@gmail.com**
 
-- 📄 Know about my experiences [**resume link**](https://drive.google.com/file/d/11S6poFfm-7T2sJzuA4tbSnMw7Fwevbpf/view?usp=sharing)
-
 - ⚡ Fun fact **I'm also a Music Producer**
 
 <h3 align="left">Connect with me:</h3>
