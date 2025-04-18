@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/100791045/210122720-ba2e089f-0237-494f-b959-7653b33fafdd.gif)](https://www.linkedin.com/in/avishka-indula-a7b6b524a/)
 <h1 align="center">Hi 👋, I'm Avishka Indula</h1>
-<h3 align="center">Junior Software Engineer | Full Stack Developer</h3>
+<h3 align="center">Junior Software Engineer | Computer Science Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishkaindula&label=Profile%20views&color=0e75b6&style=flat" alt="avishkaindula" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **avishkaindula@gmail.com**
 
-- ⚡ Fun fact **I'm also a Music Producer**
+- ⚡ Fun fact **I'm also a music producer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
