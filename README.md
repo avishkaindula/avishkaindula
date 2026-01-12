@@ -69,7 +69,7 @@ I’m open to:
 
 **Email:** avishkaindula@gmail.com  
 **Website:** https://www.avishka.net  
-**LinkedIn:** https://www.linkedin.com/in/avishka-indula-a7b6b524a/
+**LinkedIn:** https://www.linkedin.com/in/avishkaindula
 
 ---
 
